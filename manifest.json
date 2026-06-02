@@ -1,0 +1,14 @@
+{
+  "name": "Nova Drift",
+  "short_name": "Nova Drift",
+  "description": "Space Survival Shooter — pilot your fighter through endless waves",
+  "start_url": "/",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#050510",
+  "theme_color": "#00f0ff",
+  "icons": [
+    { "src": "icon.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
