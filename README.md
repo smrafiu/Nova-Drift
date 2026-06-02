@@ -16,7 +16,7 @@ Survive. Adapt. Set the record.
 ![PWA](https://img.shields.io/badge/PWA-Installable-a259ff?style=flat-square)
 ![No Dependencies](https://img.shields.io/badge/Dependencies-None-888?style=flat-square)
 
-[▶ Play Live](https://smrafiu.github.io/Nova-Drift/) &nbsp;·&nbsp; [Report a Bug](https://github.com/YOUR_USERNAME/nova-drift/issues)
+[▶ Play Live](https://smrafiu.github.io/nova-drift/) &nbsp;·&nbsp; [Report a Bug](https://github.com/smrafiu/nova-drift/issues)
 
 </div>
 
