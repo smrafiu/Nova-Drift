@@ -16,7 +16,7 @@ Survive. Adapt. Set the record.
 ![PWA](https://img.shields.io/badge/PWA-Installable-a259ff?style=flat-square)
 ![No Dependencies](https://img.shields.io/badge/Dependencies-None-888?style=flat-square)
 
-[▶ Play Live](https://YOUR_USERNAME.github.io/nova-drift) &nbsp;·&nbsp; [Report a Bug](https://github.com/YOUR_USERNAME/nova-drift/issues)
+[▶ Play Live](https://smrafiu.github.io/Nova-Drift/) &nbsp;·&nbsp; [Report a Bug](https://github.com/YOUR_USERNAME/nova-drift/issues)
 
 </div>
 
@@ -124,7 +124,7 @@ No build step required.
 
 ```bash
 # Clone
-git clone https://github.com/YOUR_USERNAME/nova-drift.git
+git clone https://github.com/smrafiu/nova-drift.git
 cd nova-drift
 
 # Open directly in browser
@@ -145,13 +145,13 @@ This repo includes a GitHub Actions workflow that deploys automatically on every
 git init
 git add .
 git commit -m "Nova Drift v1.0"
-git remote add origin https://github.com/YOUR_USERNAME/nova-drift.git
+git remote add origin https://github.com/smrafiu/nova-drift.git
 git push -u origin main
 ```
 
 Then go to: **Settings → Pages → Source: GitHub Actions**
 
-Your game will be live at `https://YOUR_USERNAME.github.io/nova-drift`
+Your game will be live at `https://smrafiu.github.io/nova-drift`
 
 ---
 
